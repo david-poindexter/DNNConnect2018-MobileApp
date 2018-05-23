@@ -1,7 +1,7 @@
 {
-  "name": "DNNConect2018",
-  "version": "0.0.1",
-  "description": "An Ionic project",
+  "name": "dnnconnect2018",
+  "version": "2.0.2",
+  "description": "DNN Connect 2018",
   "devDependencies": {
     "gulp": "^3.5.6",
     "gulp-clean-css": "^3.7.0",
